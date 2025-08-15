@@ -1,0 +1,4 @@
+name: hacksim
+dependencies:
+  - python=3.13
+  
